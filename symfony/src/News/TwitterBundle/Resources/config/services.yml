@@ -1,0 +1,7 @@
+parameters:
+#    news_twitter.example.class: News\TwitterBundle\Example
+
+services:
+#    news_twitter.example:
+#        class: %news_twitter.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
